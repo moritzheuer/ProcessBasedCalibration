@@ -10,9 +10,9 @@ In order to run the model, Init-folder and Output-folder are necessary next to t
 
 For the model run, the included run.bat file can be started, which initialises WaSiM-model runs for all PTFs.
 
-```
 **Model folder structure**
 
+```
 Model/
 ├─ Control/
 ├─ Input/
