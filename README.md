@@ -6,6 +6,6 @@ The folder Control contains the control files for the model runs. Included are t
 
 The folder Input contains the used climate data together with the grids (k_x, k_y, colmation, [...]) in binary format.
 
-In order to run the model, Init-folder and Output-folder are necessary next to the control- and input-folder. Init-folder are named Init_1 with the number indicating the used PTF. This also applies to the Output-folder (Output_1).
+In order to run the model, Init-folder and Output-folder are necessary next to the control- and input-folder. Init-folders are named Init_1 to Init_12 with the number indicating the used PTF. This also applies to the Output-folder (Output_1 to Output_12).
 
 For the model run, the included run.bat file can be started, which initialises WaSiM-model runs for all PTFs.
