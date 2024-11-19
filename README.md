@@ -15,6 +15,10 @@ For the model run, the included run.bat file can be started, which initialises W
 ```
 Model/
 ├─ Control/
+│  ├─ 01_controlfile
+│  ├─ 01_controlfile_Vorlauf
+│  ├─ run.bat
+│  ├─ wasimvcz64.exe
 ├─ Input/
 ├─ Init_1/
 ├─ Init_2/
