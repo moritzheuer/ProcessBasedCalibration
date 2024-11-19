@@ -42,11 +42,30 @@ Model/
 │  ├─ run.bat
 │  ├─ wasimvcz64.exe
 ├─ Input/
+│  ├─ ASCII
 │  ├─ Luftfeuchte2014.dat
 │  ├─ Niederschlag2014.dat
 │  ├─ Strahlung2014.dat
 │  ├─ Temperatur2014.dat
 │  ├─ Wind2014.dat
+│  ├─ Riveris.aq1
+│  ├─ Riveris.art
+│  ├─ Riveris.bh1
+│  ├─ Riveris.bq1
+│  ├─ Riveris.dgm
+│  ├─ Riveris.exp
+│  ├─ Riveris.ezg
+│  ├─ Riveris.fzs
+│  ├─ Riveris.kol
+│  ├─ Riveris.kx
+│  ├─ Riveris.ky
+│  ├─ Riveris.lin
+│  ├─ Riveris.s01
+│  ├─ Riveris.slp
+│  ├─ Riveris.use
+│  ├─ Riveris.lnk
+│  ├─ Riveris.wit
+│  ├─ Riveris.zon
 ├─ Init_1/
 ├─ Init_2/
 ├─ Init_3/
