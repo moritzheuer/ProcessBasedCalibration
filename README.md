@@ -17,9 +17,36 @@ Model/
 ├─ Control/
 │  ├─ 01_controlfile
 │  ├─ 01_controlfile_Vorlauf
+│  ├─ 02_controlfile
+│  ├─ 02_controlfile_Vorlauf
+│  ├─ 03_controlfile
+│  ├─ 03_controlfile_Vorlauf
+│  ├─ 04_controlfile
+│  ├─ 04_controlfile_Vorlauf
+│  ├─ 05_controlfile
+│  ├─ 05_controlfile_Vorlauf
+│  ├─ 06_controlfile
+│  ├─ 06_controlfile_Vorlauf
+│  ├─ 07_controlfile
+│  ├─ 07_controlfile_Vorlauf
+│  ├─ 08_controlfile
+│  ├─ 08_controlfile_Vorlauf
+│  ├─ 09_controlfile
+│  ├─ 09_controlfile_Vorlauf
+│  ├─ 10_controlfile
+│  ├─ 10_controlfile_Vorlauf
+│  ├─ 11_controlfile
+│  ├─ 11_controlfile_Vorlauf
+│  ├─ 12_controlfile
+│  ├─ 12_controlfile_Vorlauf
 │  ├─ run.bat
 │  ├─ wasimvcz64.exe
 ├─ Input/
+│  ├─ Luftfeuchte2014.dat
+│  ├─ Niederschlag2014.dat
+│  ├─ Strahlung2014.dat
+│  ├─ Temperatur2014.dat
+│  ├─ Wind2014.dat
 ├─ Init_1/
 ├─ Init_2/
 ├─ Init_3/
