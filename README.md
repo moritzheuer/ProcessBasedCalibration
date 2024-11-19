@@ -12,8 +12,11 @@ For the model run, the included run.bat file can be started, which initialises W
 
 Model/
 ├─ Control/
+
 ├─ Input/
+
 ├─ Init_1/
+
 ├─ Init_2/
 ├─ Init_3/
 ├─ Init_4/
